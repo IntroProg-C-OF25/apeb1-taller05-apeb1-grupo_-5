@@ -18,3 +18,9 @@ public class Ejercicio1_EdadVotar {
         
     }
 }
+/***
+ * run:
+Ingrese la edad: 54
+Si puede votar
+BUILD SUCCESSFUL (total time: 23 minutes 45 seconds)
+ */
