@@ -23,6 +23,15 @@ public class Ejercicio2 {
             case 4:
                 System.out.println("JUEVES");
                 break;
+            case 5: 
+                System.out.println("VIERNES");
+                break;
+            case 6:
+                System.out.println("SABADO");
+                break;
+            case 7:
+                System.out.println("DOMINGO");
+                break;
         }
 
     }
