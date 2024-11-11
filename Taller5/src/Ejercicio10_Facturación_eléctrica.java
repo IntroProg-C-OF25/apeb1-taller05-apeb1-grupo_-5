@@ -23,3 +23,11 @@ public class Ejercicio10_Facturación_eléctrica {
         }
     }
 }
+/***
+ * run-single:
+INGRESE EL VALOR DEL COSTO DE KILOVATIO POR HORA: 50
+INGRESE EL NUMERO DE KILOVATIOS CONSUMIDOS: 40
+INGRESE LA EDAD DEL USUARIO: 30
+EL VALOR A PAGAR DE LA PLANILLA DE LUZ ES: $ 2000.0
+BUILD SUCCESSFUL (total time: 15 seconds)
+ */
