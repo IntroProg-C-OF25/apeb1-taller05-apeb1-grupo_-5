@@ -32,5 +32,9 @@ public class Ejercicio6_CategoriaDeEdad {
  */
 
 /***
- * 
+ *run-single:
+ *18
+ *Ingrese la edad: 7
+ *Es un ni�o 
+ *BUILD SUCCESSFUL (total time: 3 seconds)
  */
